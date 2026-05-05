@@ -86,7 +86,6 @@ Essa abordagem pode apoiar análises de mercado, comparação entre fundos e cri
 
 ## 7. Arquivos da entrega
 
-Esta entrega contém apenas os arquivos obrigatórios:
 
 - `README.md`: documentação em Markdown;
 - `notebook.ipynb`: notebook executado com código, tabelas, gráficos, modelagem e conclusões.
